@@ -1,0 +1,22 @@
+[
+  {
+    "id": "uuid-1",
+    "name": "Red",
+    "code": "#ef4444"
+  },
+  {
+    "id": "uuid-2",
+    "name": "Orange",
+    "code": "#fb923c"
+  },
+  {
+    "id": "uuid-3",
+    "name": "Yellow",
+    "code": "#facc15"
+  },
+  {
+    "id": "uuid-4",
+    "name": "Green",
+    "code": "#22c55e"
+  }
+]
